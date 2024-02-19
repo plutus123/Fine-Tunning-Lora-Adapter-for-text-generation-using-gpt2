@@ -1,0 +1,31 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-02-18T12:59:42.734847",
+    "startedAt": "2024-02-18T12:59:41.608486",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Tasks/Task1/Task1.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/asthamishra/Desktop",
+    "host": "Rockstar.local",
+    "username": "asthamishra",
+    "executable": "/Users/asthamishra/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 217.1315574645996
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
